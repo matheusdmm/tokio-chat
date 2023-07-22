@@ -7,6 +7,9 @@ Async chat server writen in 🦀 with Tokio to stydy a different language and al
 Run it with
 
 ```BASH
+cd TOKIO-CHAT
+cargo run
+
 telnet localhost 8080
 ```
 
